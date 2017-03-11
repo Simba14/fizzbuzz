@@ -33,3 +33,8 @@ irb
 18 --> fizz
 19 --> 19
 20 --> buzz
+
+## Running it
+
+In order to run the programme, RSpec must be installed. To do so, please enter the following into your terminal:
+gem install rspec```
